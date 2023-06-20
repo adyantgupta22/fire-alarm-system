@@ -1,14 +1,14 @@
 # Fire-Alarm-System
 
-CONTRIBUTORS:-
+CONTRIBUTOR:-
 
         Adyant Gupta
 
 
 **Abstract:**
-We've developed a GUI enabled file alarm system for CC3 building (IIIT Una). The system
+I've developed a GUI enabled file alarm system for CC3 building (IIIT Una). The system
 involves inputs of various sensor devices like heat sensor, smoke detector and carbon
-monoxide detector. The CC3 building is equipped with all these sensors at various places. Our
+monoxide detector. The CC3 building is equipped with all these sensors at various places. The
 system receives the input from these sensors and draws the verdict to generate fire alarm or
 not. Furthermore, the system is able to localize the area that initiated the alarm. A
 log report is also be maintained to analyse the situation later. This report consists of
